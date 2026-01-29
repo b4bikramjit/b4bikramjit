@@ -51,12 +51,14 @@
 
 <div align="center">
 
-![Bikramjit's Stats](https://github-readme-stats.vercel.app/api?username=b4bikramjit&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b4bikramjit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<img src="https://streak-stats.demolab.com?user=b4bikramjit&theme=tokyonight&hide_border=true" />
 
-</div>
 
 <br/>
+
+<img src="https://streak-stats.demolab.com?user=b4bikramjit&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ### 🏆 Recent Projects
 
