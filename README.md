@@ -58,7 +58,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,stats,tensorflow,pytorch,sklearn,opencv,pandas,numpy,matplotlib&perline=10" alt="Data Science Stack" />
+    <img src="https://skillicons.dev/icons?i=python,r,tensorflow,sklearn,anaconda,figma&perline=10" alt="Data Science Stack" />
   </a>
   <br/><br/>
   <a href="https://skillicons.dev">
