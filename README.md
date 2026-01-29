@@ -1,9 +1,6 @@
 <div align="center">
 
-<!-- Header Banner with GIF -->
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%" style="border-radius: 10px;" alt="Data Science Banner" />
 
-<br/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
