@@ -51,12 +51,8 @@
 
 <div align="center">
 
-<a href="https://github.com/b4bikramjit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=b4bikramjit&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Bikramjit's Stats" />
-</a>
-<a href="https://github.com/b4bikramjit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=b4bikramjit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-</a>
+![Bikramjit's Stats](https://github-readme-stats.vercel.app/api?username=b4bikramjit&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b4bikramjit&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
 </div>
 
